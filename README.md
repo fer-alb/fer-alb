@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @fer-alb
+- 👀 I’m interested in open-source projects, web development, and AI.
+- 🌱 I’m currently learning JavaScript, React, Java and Python.
+- 💞️ I’m looking to collaborate on innovative web applications and AI research.
+- 📫 How to reach me: [channeldarkdev@gmail.com](mailto:channeldarkdev@gmail.com) or [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I like to paint and draw, and I like to bring my ideas to the websites I design!
